@@ -1,0 +1,21 @@
+* {
+    background-color: antiquewhite;
+}
+
+
+img {
+    width: 85px;
+}
+
+p {
+background-color: rgb(255, 11, 11);
+}
+
+#expe {
+    background-color: blue;
+}
+
+#divisor {
+    margin: 16px 20px 25px 18px;
+    border-style: dotted;
+}
